@@ -1,0 +1,10 @@
+marquee
+{behavior: alternate; 
+color: rgb(156, 219, 221);
+direction: right;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+background-color: rgb(37, 95, 37);
+line-height: 300%;
+
+}
